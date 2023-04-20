@@ -9,6 +9,5 @@ Enhance zebra continuously
 
 Enhance dog and chair continuously 
 <p align="center">
-    <img src="./figs/yang_dog.gif"  alt="image" style="width:400px;"> 
     <img src="./figs/yang_dog_and_chair.gif"  alt="image" style="width:400px;">
 </p>
