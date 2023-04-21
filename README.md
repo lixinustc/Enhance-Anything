@@ -6,7 +6,11 @@
 
 ## 🌟 Enhance Anything Features
 - [x] **Continuously Enhance** Anything by a simple click
-- [ ] Enhance other distortion types
+- [ ] Restore multiple distortion types
+- [ ] Enhance with multiple enhancement types
+- [ ] Technique Analysis - Arxiv Version
+- [ ] Improving generalization capability
+
 
 ## Visual Examples
 
@@ -42,3 +46,6 @@
 - [Segment Anything](https://github.com/facebookresearch/segment-anything)
 - [Inpainting Anything](https://github.com/geekyutao/Inpaint-Anything)
 - [CResMD](https://github.com/hejingwenhejingwen/CResMD)
+
+## Usages
+- Coming Soon!
