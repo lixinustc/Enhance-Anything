@@ -1,4 +1,7 @@
-# Enhance Anything
+<p align="center">
+  <img src="./figs/EA.bmp" alt="image" style="width:1000px;>
+</p>
+
 Enhance and restore anything continuously with Segment Anything Model and CResMD (will be replaced by a stronger model in future).
 
 ## 🌟 Enhance Anything Features
