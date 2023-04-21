@@ -4,7 +4,7 @@ Enhance and restore any things continuously with Segment Anything
 
 Enhance zebra continuously
 <p align="center">
-    <img src="./figs/yang_zebra.gif"  alt="image" style="width:1000px;">
+    <img src="./figs/yang_zebra_com.gif"  alt="image" style="width:1000px;">
 </p>
 
 
