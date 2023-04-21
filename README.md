@@ -9,6 +9,7 @@
 - [ ] Restore multiple distortion types
 - [ ] Enhance with multiple enhancement types
 - [ ] Technique Analysis - Arxiv Version
+- [ ] Demo
 - [ ] Improving generalization capability
 
 
