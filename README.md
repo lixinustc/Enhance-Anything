@@ -2,7 +2,7 @@
   <img src="./figs/EA.bmp" alt="image" style="width:1000px;">
 </p>
 
-**Brief intro**: Enhance and restore anything continuously with Segment Anything Model and CResMD (will be replaced by a stronger model in future).
+**Brief intro**: Enhance and restore anything continuously with [Segment Anything Model](https://github.com/facebookresearch/segment-anything) and [CResMD](https://github.com/hejingwenhejingwen/CResMD) (will be replaced by a stronger model in future).
 
 ## 🌟 Enhance Anything Features
 - [x] **Continuously Enhance** Anything by a simple click
@@ -36,3 +36,9 @@
 <p align="center">
     <img src="./figs/yang_0006.gif"  alt="image" style="width:500px;">
 </p>
+
+
+## Acknowledgments
+- [Segment Anything](https://github.com/facebookresearch/segment-anything)
+- [Inpainting Anything](https://github.com/geekyutao/Inpaint-Anything)
+- [CResMD](https://github.com/hejingwenhejingwen/CResMD)
