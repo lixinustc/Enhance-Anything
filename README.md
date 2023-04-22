@@ -52,4 +52,16 @@
 - [CResMD](https://github.com/hejingwenhejingwen/CResMD)
 
 ## Usages
-- Coming Soon!
+Please download the weights for segment-anything[https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth], and move it to ./pretrained_weights. Then you can run the code with:
+```
+ python enhance_anything_continusly.py  --input_img ./examples/0006.png    --point_coords 200 300    --point_labels 1     --dilate_kernel_size 30     --output_dir ./results     --sam_model_type "vit_h"     --sam_ckpt ./pretrained_models/sam_vit_h_4b8939.pth --opt ./CResMD/options/test/modulation_CResMD.yml
+```
+
+
+## Installation
+```bash
+conda create -n seganything python
+python -m pip install torch torchvision torchaudio
+python -m pip install -e segment_anything
+python -m pip install lmdb
+```
