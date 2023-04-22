@@ -46,11 +46,6 @@
 </p>
 
 
-## Acknowledgments
-- [Segment Anything](https://github.com/facebookresearch/segment-anything)
-- [Inpainting Anything](https://github.com/geekyutao/Inpaint-Anything)
-- [CResMD](https://github.com/hejingwenhejingwen/CResMD)
-
 ## Usages
 Please download the weights for [segment-anything](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth), and move it to ./pretrained_weights. Then you can run the code with:
 ```
@@ -65,3 +60,8 @@ python -m pip install torch torchvision torchaudio
 python -m pip install -e segment_anything
 python -m pip install lmdb
 ```
+
+## Acknowledgments
+- [Segment Anything](https://github.com/facebookresearch/segment-anything)
+- [Inpainting Anything](https://github.com/geekyutao/Inpaint-Anything)
+- [CResMD](https://github.com/hejingwenhejingwen/CResMD)
