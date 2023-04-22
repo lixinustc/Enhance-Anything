@@ -58,7 +58,7 @@ Please download the weights for [segment-anything](https://dl.fbaipublicfiles.co
 ```
 The results are shown in ./results_continuous/. 
 
-## Installation
+## Environment
 ```bash
 conda create -n seganything python
 python -m pip install torch torchvision torchaudio
