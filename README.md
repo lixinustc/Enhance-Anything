@@ -6,8 +6,9 @@
 
 ## 🌟 Enhance Anything Features
 - [x] **Continuously Enhance** Anything by a simple click
-- [ ] Restore multiple distortion types
-- [ ] Enhance with multiple enhancement types
+- [ ] Assist Colorizing Anything
+- [ ] Assist multiple distortion types
+- [ ] Assist multiple enhancement types
 - [ ] Technique Analysis - Arxiv Version
 - [ ] Demo
 - [ ] Improving generalization capability
