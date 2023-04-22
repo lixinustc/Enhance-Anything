@@ -4,6 +4,8 @@
 
 **Brief intro**: Enhance and restore anything continuously with [Segment Anything Model](https://github.com/facebookresearch/segment-anything) and [CResMD](https://github.com/hejingwenhejingwen/CResMD) (will be replaced by a stronger model in future).
 
+**Purpose**: We aim to achieve a unfied intellignet image/video PS/enhancement framework.
+
 ## 🌟 Enhance Anything Features
 - [x] **Continuously Enhance** Anything by a simple click
 - [ ] Assist Colorizing Anything
