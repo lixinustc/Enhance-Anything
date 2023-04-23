@@ -2,7 +2,7 @@
   <img src="./figs/EA.bmp" alt="image" style="width:1000px;">
 </p>
 
-**Brief intro**: Enhance and restore anything continuously with [Segment Anything Model](https://github.com/facebookresearch/segment-anything) and [CResMD](https://github.com/hejingwenhejingwen/CResMD) (The initial version, and it will be replaced by a stronger model in future).
+**Brief intro**: Enhance and restore anything continuously with [Segment Anything Model](https://github.com/facebookresearch/segment-anything) and [CResMD](https://github.com/hejingwenhejingwen/CResMD) (The initial version, and it will be extended in future).
 
 **Purpose**: We aim to achieve a unfied intellignet image/video PS/enhancement framework. More functions will be developed.
 
