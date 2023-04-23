@@ -4,7 +4,7 @@
 
 **Purpose**: We aim to achieve a unfied intellignet image/video PS/enhancement framework. More functions will be developed.
 
-**Brief intro**: Enhance and restore anything continuously with [Segment Anything Model](https://github.com/facebookresearch/segment-anything) for image processing (The initial version is achieved with [CResMD](https://github.com/hejingwenhejingwen/CResMD), and it will be extended in future).
+**Brief intro for current function**: Enhance and restore anything continuously with [Segment Anything Model](https://github.com/facebookresearch/segment-anything) for image processing (The initial version is achieved with [CResMD](https://github.com/hejingwenhejingwen/CResMD), and it will be extended in future).
 
 
 ## 🌟 Enhance Anything Features
